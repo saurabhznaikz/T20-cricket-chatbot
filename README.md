@@ -17,3 +17,7 @@ install all dependencies of the this project by
 ```bash
   pip install -r requirements.txt
 ```
+run python app
+```bash
+  streamlit run app.py
+```
